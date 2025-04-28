@@ -1,4 +1,4 @@
-# 🧹 Inventory Data Cleaning and Dynamic Dashboard Project  
+# 🧹 GitHub Inventory Analysis 
 **Project Code:** B44_DA_002_Inventory Analysis  
 **By:** [Waswi chinchkhede]
 
