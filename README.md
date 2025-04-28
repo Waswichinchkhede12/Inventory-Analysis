@@ -67,8 +67,7 @@ cd Inventory-Data-Cleaning-and-Visualization
 ---
 
 📊 **Example Dashboard Preview**  
-*(Insert a screenshot of your Power BI Dashboard here!)*  
-> [Optional: Add a GIF or short video link for maximum impact 🔥]
+![image](https://github.com/user-attachments/assets/9f785111-3ee7-4727-9022-cbe2f5b3b1c9)
 
 ---
 
